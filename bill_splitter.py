@@ -89,7 +89,7 @@ while (True):
 print("\n======================")
 print("** EXPRESSIONS ACCEPTED [+,-,*,/] **")
 print("** Evaluated left -> right (NOT GEMDAS) **")
-print("** Ex: 5.0 + 2.0 * 7")
+print("** Ex: 5.0 + 2.0 * 7 **")
 print("======================\n")
 counter = 0;
 while counter < items:
